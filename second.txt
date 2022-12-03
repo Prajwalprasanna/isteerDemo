@@ -1,4 +1,8 @@
 hi good 
 bye good evining
 hi good night
+<<<<<<< HEAD
 bye good evening
+=======
+good night again
+>>>>>>> develop
